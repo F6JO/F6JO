@@ -1,4 +1,23 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=F6JO" /> </div>
+
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20Welcome👏;Hope%20to%20know%20you!😄&center=true&size=27"> </a> </h1>
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center">
+
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=F6JO&show_icons=true&theme=tokyonight" />
+
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F6JO&hide_title=true&hide_border=false&layout=compact&langs_count=6&text_color=&icon_color=&theme=tokyonight" />
+</div>
+
+
+
+
+
+
+
+
 
 <!--
 **F6JO/F6JO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
