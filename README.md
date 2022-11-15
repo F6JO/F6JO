@@ -1,7 +1,6 @@
 <!-- ### Hi there 👋 -->
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=F6JO" /> </div>
 
-<img src="123" onerror="alert(1)">
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20Welcome👏;Hope%20to%20know%20you!😄&center=true&size=27"> </a> </h1>
 
